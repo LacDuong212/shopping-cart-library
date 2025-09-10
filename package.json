@@ -1,5 +1,5 @@
 {
-  "name": "react-cart-library-example",
+  "name": "react-cart-library",
   "version": "1.0.0",
   "description": "Thư viện giỏ hàng đơn giản dùng React",
   "main": "dist/index.cjs.js",
